@@ -1,0 +1,21 @@
+Stage9_Phone.png
+size:924,404
+filter:Linear,Linear
+pma:true
+alarm effx
+bounds:404,129,273,333
+offsets:63,33,400,400
+rotate:90
+phone1
+bounds:2,2,400,400
+phone2
+bounds:739,14,388,181
+offsets:12,67,400,400
+rotate:90
+phone3
+bounds:404,14,113,155
+offsets:148,118,400,400
+rotate:90
+tape2
+bounds:561,103,53,24
+offsets:174,165,400,400

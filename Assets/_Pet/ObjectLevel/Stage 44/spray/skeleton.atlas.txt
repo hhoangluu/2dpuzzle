@@ -1,0 +1,11 @@
+skeleton.png
+size:476,296
+filter:Linear,Linear
+pma:true
+snow spray
+bounds:296,86,175,206
+offsets:0,1,176,208
+snow spray2
+bounds:2,2,290,292
+offsets:1,0,291,292
+rotate:90

@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Question_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e8aa52744bf014789a22b307f42aeef7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 56919842816
+    m_Localized: Help the baby stop crying
+    m_Metadata:
+      m_Items: []
+  - m_Id: 968446959616
+    m_Localized: Who will get there first?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1869479927808
+    m_Localized: Something's inside his nose! Help him get it out!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3876076904448
+    m_Localized: Where is the owl ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4382132264960
+    m_Localized: Stop the alarm !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4611531333632
+    m_Localized: Where is corgi ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5320284823552
+    m_Localized: Thief! Hurry! Wake him up!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5994926039040
+    m_Localized: Make the seed grow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22059093581824
+    m_Localized: Bring the money out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44868381433856
+    m_Localized: Find the
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45905360183296
+    m_Localized: text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55945928368128
+    m_Localized: below corgi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 759888355250176
+    m_Localized: Help him find the exit!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1029901325950976
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1058289818263552
+    m_Localized: Stop the rocking chair!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1079010724405248
+    m_Localized: Please be patient!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1110543405408256
+    m_Localized: Turn on the PC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1440657536180224
+    m_Localized: Help the snowman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1472697757327360
+    m_Localized: How many kangaroos are there?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1479854393384960
+    m_Localized: What is the number after 35?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1489739982036992
+    m_Localized: Find the smallest animal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1518501163425792
+    m_Localized: Find the cat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1479816346853376
+    m_Localized: Shoot to target
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745207828668416
+    m_Localized: Can you fix this phone?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

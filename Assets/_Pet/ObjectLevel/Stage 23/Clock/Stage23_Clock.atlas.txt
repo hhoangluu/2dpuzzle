@@ -1,0 +1,20 @@
+Stage23_Clock.png
+size:632,1036
+filter:Linear,Linear
+pma:true
+alarm effx
+bounds:2,2,273,333
+offsets:63,33,400,400
+rotate:90
+clock
+bounds:2,447,584,607
+rotate:90
+clock2
+bounds:2,277,168,627
+rotate:90
+hour
+bounds:337,40,83,62
+rotate:90
+minute
+bounds:337,125,150,34
+rotate:90

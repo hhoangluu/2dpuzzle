@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Question Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Question
+  m_TableCollectionNameGuidString: e8aa52744bf014789a22b307f42aeef7
+  m_Entries:
+  - m_Id: 56919842816
+    m_Key: Stage10_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 968446959616
+    m_Key: Stage12_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1869479927808
+    m_Key: Stage15_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3876076904448
+    m_Key: Stage16_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4382132264960
+    m_Key: Stage17_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4611531333632
+    m_Key: Stage22_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5320284823552
+    m_Key: Stage23_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5994926039040
+    m_Key: Stage2_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22059093581824
+    m_Key: Stage21_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44868381433856
+    m_Key: Stage39_Question1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45905360183296
+    m_Key: Stage39_Question2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55945928368128
+    m_Key: Stage39_Question3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 759888355250176
+    m_Key: Stage43_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1029901325950976
+    m_Key: Stage43_Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1058289818263552
+    m_Key: Stage40_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1079010724405248
+    m_Key: Stage42_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1110543405408256
+    m_Key: Stage11_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1440657536180224
+    m_Key: Stage44_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1472697757327360
+    m_Key: Stage54_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1479816346853376
+    m_Key: 'Stage27_Question '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1479854393384960
+    m_Key: Stage55_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1489739982036992
+    m_Key: Stage53_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1493291739635712
+    m_Key: Stage53_Questio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1518501163425792
+    m_Key: Stage56_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1737303931215872
+    m_Key: Stage56_Questio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1745207828668416
+    m_Key: Stage9_Question
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6340799036814262274
+  references:
+    version: 2
+    RefIds:
+    - rid: 6340799036814262274
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1651819204528

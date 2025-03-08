@@ -1,0 +1,11 @@
+_Stage2_WaterCan.png
+size:620,264
+filter:Linear,Linear
+pma:true
+water
+bounds:343,2,258,273
+offsets:58,68,400,400
+rotate:90
+watering can
+bounds:2,13,339,247
+offsets:30,77,400,400

@@ -1,0 +1,11 @@
+Stage2_Seed.png
+size:532,364
+filter:Linear,Linear
+pma:true
+green
+bounds:2,2,285,360
+offsets:59,22,400,400
+seed
+bounds:289,23,339,239
+offsets:31,80,400,400
+rotate:90

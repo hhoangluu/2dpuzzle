@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Texture
+  m_EditorClassIdentifier: 
+  m_GroupName: Texture
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e93fbbb46074b4a91bfa99f693a71b48
+  m_SerializeEntries:
+  - m_GUID: 4a0f70ee72c2546b08c3145732499453
+    m_Address: Assets/_Pet/Texture/bt_Nextstage.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c1eac1d1a1cf489888437539f031945
+    m_Address: Assets/_Pet/Texture/bt_Ok.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 86dfb8c40be464088b4946bcfac27445
+    m_Address: Assets/_Pet/Texture/bt_Restart.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fb5afde599a2e4fc6b043c93d538ad52
+    m_Address: Assets/_Pet/Texture/bub_Setting.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76bd4c1f695164e77bff8d0c5f520510
+    m_Address: Assets/_Pet/Texture/bub_Text.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a182777eeaec4272b5c3f5140f78eaf
+    m_Address: Assets/_Pet/Texture/bub_Win.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 959c4c90fa71c47b8bc927d208d7fa2a
+    m_Address: Assets/_Pet/Texture/ic_Ads.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 319759d10b3e94b6395cef6a109819e8
+    m_Address: Assets/_Pet/Texture/ic_Choice.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d5418edbf9014311ae7cc0f1fb22fcf
+    m_Address: Assets/_Pet/Texture/ic_Hint.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c36dc84ff26b48ed982fc82db720566
+    m_Address: Assets/_Pet/Texture/ic_Music.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4c3895163cbb24f0ebebadf393394479
+    m_Address: Assets/_Pet/Texture/ic_Nextstage.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09f9cdc3d4283470487c1dcaa8fbffd0
+    m_Address: Assets/_Pet/Texture/ic_Noad.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8d4d8d9d8297e4a7e8de60f878f84b4f
+    m_Address: Assets/_Pet/Texture/ic_On.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 25cb867648c6f4d9d983742733136835
+    m_Address: Assets/_Pet/Texture/ic_Restart.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b7916f67060d04b448941d3198eb59bc
+    m_Address: Assets/_Pet/Texture/ic_Setting-copy-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c232bb77eb5ea4eab9364ba4e169db09
+    m_Address: Assets/_Pet/Texture/ic_Setting.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3343a7db602a44fd9bf98e4c23576011
+    m_Address: Assets/_Pet/Texture/ic_Sound.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 61f74a1d3b13041e9bbafcffffc14dbb
+    m_Address: Assets/_Pet/Texture/ic_Stage.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1c042bcf03cc4fedacb57c85fd36450
+    m_Address: Assets/_Pet/Texture/ic_Vibration.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: cf18e5612525a4b2abd859c3ba501a16, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: aacfeee37bbe94623ade036364ee6256, type: 2}
+    - {fileID: 11400000, guid: e2114356651c84c22857ae104fadb624, type: 2}

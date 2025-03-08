@@ -1,0 +1,19 @@
+skeleton.png
+size:1456,464
+filter:Linear,Linear
+pma:true
+body
+bounds:2,2,774,457
+offsets:14,24,800,504
+head
+bounds:778,83,376,336
+rotate:90
+sm melt_body
+bounds:1116,3,456,168
+rotate:90
+sm melt_head
+bounds:1286,179,280,168
+rotate:90
+sm sweat
+bounds:778,31,30,50
+offsets:25,15,80,80

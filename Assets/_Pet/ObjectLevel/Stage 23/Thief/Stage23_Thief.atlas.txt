@@ -1,0 +1,26 @@
+Stage23_Thief.png
+size:312,524
+filter:Linear,Linear
+pma:true
+body
+bounds:212,385,96,137
+hand
+bounds:212,274,109,76
+rotate:90
+hand 2
+bounds:2,229,208,293
+head
+bounds:2,82,145,158
+rotate:90
+leg1
+bounds:2,3,96,77
+leg2
+bounds:100,11,44,69
+leg3
+bounds:212,236,36,47
+rotate:90
+money
+bounds:162,2,225,142
+rotate:90
+mouth
+bounds:261,249,42,23

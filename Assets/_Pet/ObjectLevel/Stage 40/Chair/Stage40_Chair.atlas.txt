@@ -1,0 +1,11 @@
+Stage40_Chair.png
+size:1252,668
+filter:Linear,Linear
+pma:true
+chair
+bounds:2,2,664,866
+offsets:0,3,664,872
+rotate:90
+doll
+bounds:870,216,380,450
+offsets:2,3,384,456

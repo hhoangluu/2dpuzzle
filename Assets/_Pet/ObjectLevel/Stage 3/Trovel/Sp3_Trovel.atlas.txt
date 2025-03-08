@@ -1,0 +1,11 @@
+Sp3_Trovel.png
+size:368,260
+filter:Linear,Linear
+pma:true
+Dirt2
+bounds:322,201,54,44
+offsets:24,27,100,100
+rotate:90
+trowel
+bounds:2,2,318,253
+offsets:41,73,400,400

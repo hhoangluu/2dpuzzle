@@ -1,0 +1,11 @@
+Stage11_Monitor.png
+size:648,388
+filter:Linear,Linear
+pma:true
+monitor
+bounds:2,2,394,381
+offsets:7,2,408,384
+monitor2
+bounds:398,32,351,246
+offsets:0,1,352,248
+rotate:90

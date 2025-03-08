@@ -1,0 +1,10 @@
+Stage42_Button.png
+size:696,232
+filter:Linear,Linear
+pma:true
+button1
+bounds:373,25,318,203
+offsets:42,122,400,400
+button2
+bounds:2,2,369,226
+offsets:16,86,400,400

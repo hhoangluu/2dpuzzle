@@ -1,0 +1,13 @@
+Stage40_Fan.png
+size:556,296
+filter:Linear,Linear
+pma:true
+button
+bounds:375,16,40,27
+offsets:0,7,40,40
+fan
+bounds:2,2,291,371
+offsets:6,3,304,376
+rotate:90
+fan2
+bounds:375,45,176,248

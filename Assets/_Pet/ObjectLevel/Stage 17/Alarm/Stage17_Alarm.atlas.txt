@@ -1,0 +1,10 @@
+Stage17_Alarm.png
+size:328,208
+filter:Linear,Linear
+pma:true
+alarm
+bounds:2,2,201,221
+offsets:3,2,208,224
+rotate:90
+alarm effx
+bounds:225,103,100,100

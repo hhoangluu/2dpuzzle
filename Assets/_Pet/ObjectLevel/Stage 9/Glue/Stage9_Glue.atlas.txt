@@ -1,0 +1,7 @@
+Stage9_Glue.png
+size:216,376
+filter:Linear,Linear
+pma:true
+glue
+bounds:2,2,212,369
+offsets:94,15,400,400

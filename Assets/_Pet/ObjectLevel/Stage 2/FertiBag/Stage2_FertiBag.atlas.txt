@@ -1,0 +1,9 @@
+Stage2_FertiBag.png
+size:700,404
+filter:Linear,Linear
+pma:true
+Fer
+bounds:2,2,400,400
+FertiBag
+bounds:404,63,291,339
+offsets:54,30,400,400

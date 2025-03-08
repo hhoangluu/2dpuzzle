@@ -1,0 +1,13 @@
+Stage3_Pencil.png
+size:608,304
+filter:Linear,Linear
+pma:true
+bone
+bounds:298,152,306,149
+offsets:47,125,400,400
+bone_outline
+bounds:298,2,300,148
+offsets:50,125,400,400
+pencil
+bounds:2,7,294,294
+offsets:53,53,400,400

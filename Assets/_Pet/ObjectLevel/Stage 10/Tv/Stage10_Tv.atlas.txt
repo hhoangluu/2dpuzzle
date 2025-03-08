@@ -1,0 +1,12 @@
+Stage10_Tv.png
+size:492,344
+filter:Linear,Linear
+pma:true
+tv
+bounds:2,2,338,254
+offsets:31,73,400,400
+rotate:90
+tvscreen
+bounds:258,33,307,230
+offsets:55,85,400,400
+rotate:90
